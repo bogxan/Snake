@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\ex2\ex2\bin\Debug\ex2.exe.config
+C:\Users\student\Desktop\ex2\ex2\bin\Debug\ex2.exe
+C:\Users\student\Desktop\ex2\ex2\bin\Debug\ex2.pdb
+C:\Users\student\Desktop\ex2\ex2\obj\Debug\ex2.csprojAssemblyReference.cache
+C:\Users\student\Desktop\ex2\ex2\obj\Debug\ex2.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\ex2\ex2\obj\Debug\ex2.exe
+C:\Users\student\Desktop\ex2\ex2\obj\Debug\ex2.pdb
+D:\ex2\ex2\ex2\bin\Debug\ex2.exe.config
+D:\ex2\ex2\ex2\bin\Debug\ex2.exe
+D:\ex2\ex2\ex2\bin\Debug\ex2.pdb
+D:\ex2\ex2\ex2\obj\Debug\ex2.csprojAssemblyReference.cache
+D:\ex2\ex2\ex2\obj\Debug\ex2.csproj.CoreCompileInputs.cache
+D:\ex2\ex2\ex2\obj\Debug\ex2.exe
+D:\ex2\ex2\ex2\obj\Debug\ex2.pdb
